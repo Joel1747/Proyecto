@@ -1,0 +1,18 @@
+version: "3.3"
+
+services:
+  mc:
+  #imagen del servidor 
+    image: itzg/minecraft-server
+    ports:
+    #Mapeo de puertos 
+      - 25565:25565 
+    #Con este parametro aceptamos las condiciones de hacer un servidor de Minecraft Ofical
+    environment:
+      EULA: "TRUE"
+    tty: true
+    stdin_open: true
+    restart: unless-stopped
+    volumes:
+      # Carpeta donde se guardaran los datos del servidor
+      - ./minecraft-data:/data
