@@ -1,0 +1,312 @@
+[14:53:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[14:53:14] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[14:53:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[14:53:14] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[14:53:14] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_312, running on Linux:amd64:5.15.0-72-generic, installed at /opt/java/openjdk
+[14:53:14] [main/INFO] [FML]: Searching /data/./mods for mods
+[14:53:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:53:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:53:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:53:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:53:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:53:16] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[14:53:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:53:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:53:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:53:17] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:53:17] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[14:53:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[14:53:21] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[14:53:21] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[14:53:21] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[14:53:21] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[14:53:22] [Server thread/INFO] [FML]: Searching /data/./mods for mods
+[14:53:24] [Server thread/INFO] [FML]: Forge Mod Loader has identified 8 mods to load
+[14:53:24] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[14:53:24] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jei, journeymap, pixelmon, tcg] at CLIENT
+[14:53:24] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jei, journeymap, pixelmon, tcg] at SERVER
+[14:53:25] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[14:53:25] [Server thread/INFO] [FML]: Found 1189 ObjectHolder annotations
+[14:53:25] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[14:53:25] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[14:53:25] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[14:53:25] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Starting version check at https://reforged.gg/forge/update.json
+[14:53:25] [Server thread/INFO] [Pixelmon]: Loading Pixelmon version 8.4.2
+[14:53:26] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Found status: OUTDATED Target: 8.4.3
+[14:53:26] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[14:53:27] [Server thread/INFO] [Pixelmon]: Checking for migrations..
+[14:53:27] [Server thread/INFO] [Pixelmon]: Loading Advancements
+[14:53:27] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[14:53:29] [Server thread/INFO] [FML]: Applying holder lookups
+[14:53:29] [Server thread/INFO] [FML]: Holder lookups applied
+[14:53:29] [Server thread/INFO] [FML]: Applying holder lookups
+[14:53:29] [Server thread/INFO] [FML]: Holder lookups applied
+[14:53:29] [Server thread/INFO] [FML]: Applying holder lookups
+[14:53:29] [Server thread/INFO] [FML]: Holder lookups applied
+[14:53:29] [Server thread/INFO] [FML]: Applying holder lookups
+[14:53:29] [Server thread/INFO] [FML]: Holder lookups applied
+[14:53:29] [Server thread/INFO] [FML]: Injecting itemstacks
+[14:53:29] [Server thread/INFO] [FML]: Itemstack injection complete
+[14:53:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[14:53:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[14:53:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[14:53:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[14:53:30] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[14:53:30] [Server thread/INFO] [FML]: Applying holder lookups
+[14:53:30] [Server thread/INFO] [FML]: Holder lookups applied
+[14:53:31] [Server thread/INFO] [Pixelmon]: Registering shop items.
+[14:53:31] [Server thread/INFO] [Pixelmon]: Registering NPCs.
+[14:53:31] [Server thread/INFO] [Pixelmon]: Registering structures.
+[14:53:31] [Server thread/INFO] [Pixelmon]: Registering all drops.
+[14:53:32] [Server thread/INFO] [Pixelmon]: Registering battle rules.
+[14:53:32] [Server thread/INFO] [Pixelmon]: Registering Pokémon stats.
+[14:53:32] [Server thread/WARN] [Pixelmon]: Attack name invalid: Chloroblast
+[14:53:32] [Server thread/WARN] [Pixelmon]: Attack name invalid: Barb Barrage
+[14:53:32] [Server thread/WARN] [Pixelmon]: Attack name invalid: Ceaseless Edge
+[14:53:32] [Server thread/WARN] [Pixelmon]: Attack name invalid: Esper Wing
+[14:53:32] [Server thread/WARN] [Pixelmon]: Attack name invalid: Power Shift
+[14:53:32] [Server thread/WARN] [Pixelmon]: Attack name invalid: Shelter
+[14:53:32] [Server thread/WARN] [Pixelmon]: Attack name invalid: Shelter
+[14:53:32] [Server thread/WARN] [Pixelmon]: Attack name invalid: Psyshield Bash
+[14:53:32] [Server thread/WARN] [Pixelmon]: Attack name invalid: Tackled
+[14:53:32] [Server thread/WARN] [Pixelmon]: Attack name invalid: Wave Crash
+[14:53:32] [Server thread/WARN] [Pixelmon]: Attack name invalid: Springtide Storm
+[14:53:32] [Server thread/WARN] [Pixelmon]: Attack name invalid: Power Shift
+[14:53:32] [Server thread/INFO] [Pixelmon]: Registering quests.
+[14:53:33] [Server thread/INFO] [Pixelmon]: Loaded 39 Quests.
+[14:53:33] [Server thread/INFO] [Pixelmon TCG]: Initializing Pixelmon TCG v1.12.2-8.4.2-universal
+[14:53:33] [Server thread/INFO] [FML]: Injecting itemstacks
+[14:53:33] [Server thread/INFO] [FML]: Itemstack injection complete
+[14:53:34] [Server thread/INFO] [Pixelmon]: Registering spawn sets.
+[14:53:35] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[14:53:35] [Server thread/INFO] [Pixelmon]: Registering raid spawning.
+[14:53:35] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 8 mods
+[14:53:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[14:53:35] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@7654174)
+[14:53:36] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 734 advancements
+[14:53:36] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7654174)
+[14:53:36] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@7654174)
+[14:53:36] [Server thread/INFO] [FML]: Loading dimension 72 (world) (net.minecraft.server.dedicated.DedicatedServer@7654174)
+[14:53:36] [Server thread/INFO] [FML]: Loading dimension 73 (world) (net.minecraft.server.dedicated.DedicatedServer@7654174)
+[14:53:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[14:53:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 7%
+[14:53:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 12%
+[14:53:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 16%
+[14:53:40] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[14:53:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 22%
+[14:53:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 28%
+[14:53:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 36%
+[14:53:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 44%
+[14:53:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 52%
+[14:53:45] [Netty Epoll Server IO #3/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[14:53:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 59%
+[14:53:46] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [3, 13] in dimension 0 (overworld) while populating chunk [3, 12], causing cascading worldgen lag.
+[14:53:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:46] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [4, 13] in dimension 0 (overworld) while populating chunk [3, 13], causing cascading worldgen lag.
+[14:53:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:46] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [5, 13] in dimension 0 (overworld) while populating chunk [4, 13], causing cascading worldgen lag.
+[14:53:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:46] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [3, 14] in dimension 0 (overworld) while populating chunk [3, 13], causing cascading worldgen lag.
+[14:53:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:46] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [4, 14] in dimension 0 (overworld) while populating chunk [3, 13], causing cascading worldgen lag.
+[14:53:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:46] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [3, 15] in dimension 0 (overworld) while populating chunk [3, 13], causing cascading worldgen lag.
+[14:53:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:46] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [4, 15] in dimension 0 (overworld) while populating chunk [3, 13], causing cascading worldgen lag.
+[14:53:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:46] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [4, 12] in dimension 0 (overworld) while populating chunk [3, 12], causing cascading worldgen lag.
+[14:53:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:46] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [5, 12] in dimension 0 (overworld) while populating chunk [3, 12], causing cascading worldgen lag.
+[14:53:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:47] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [5, 11] in dimension 0 (overworld) while populating chunk [4, 11], causing cascading worldgen lag.
+[14:53:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:47] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [5, 10] in dimension 0 (overworld) while populating chunk [4, 10], causing cascading worldgen lag.
+[14:53:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 65%
+[14:53:47] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [5, 9] in dimension 0 (overworld) while populating chunk [5, 7], causing cascading worldgen lag.
+[14:53:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:47] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [5, 8] in dimension 0 (overworld) while populating chunk [5, 7], causing cascading worldgen lag.
+[14:53:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:47] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [6, 14] in dimension 0 (overworld) while populating chunk [5, 14], causing cascading worldgen lag.
+[14:53:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:47] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [5, 15] in dimension 0 (overworld) while populating chunk [5, 14], causing cascading worldgen lag.
+[14:53:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:47] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [6, 15] in dimension 0 (overworld) while populating chunk [5, 14], causing cascading worldgen lag.
+[14:53:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:47] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [6, 16] in dimension 0 (overworld) while populating chunk [5, 16], causing cascading worldgen lag.
+[14:53:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:47] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [5, 17] in dimension 0 (overworld) while populating chunk [5, 16], causing cascading worldgen lag.
+[14:53:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:47] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [6, 17] in dimension 0 (overworld) while populating chunk [5, 16], causing cascading worldgen lag.
+[14:53:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:47] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [5, 18] in dimension 0 (overworld) while populating chunk [5, 16], causing cascading worldgen lag.
+[14:53:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:47] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [6, 18] in dimension 0 (overworld) while populating chunk [5, 16], causing cascading worldgen lag.
+[14:53:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:47] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [5, 19] in dimension 0 (overworld) while populating chunk [5, 16], causing cascading worldgen lag.
+[14:53:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:47] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [6, 19] in dimension 0 (overworld) while populating chunk [5, 16], causing cascading worldgen lag.
+[14:53:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 72%
+[14:53:48] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [7, 13] in dimension 0 (overworld) while populating chunk [6, 13], causing cascading worldgen lag.
+[14:53:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:48] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [7, 14] in dimension 0 (overworld) while populating chunk [6, 13], causing cascading worldgen lag.
+[14:53:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:48] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [7, 12] in dimension 0 (overworld) while populating chunk [6, 12], causing cascading worldgen lag.
+[14:53:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:48] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [8, 15] in dimension 0 (overworld) while populating chunk [7, 15], causing cascading worldgen lag.
+[14:53:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:48] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [9, 15] in dimension 0 (overworld) while populating chunk [7, 15], causing cascading worldgen lag.
+[14:53:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:48] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [7, 16] in dimension 0 (overworld) while populating chunk [7, 15], causing cascading worldgen lag.
+[14:53:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:48] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [8, 16] in dimension 0 (overworld) while populating chunk [7, 15], causing cascading worldgen lag.
+[14:53:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:48] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [9, 16] in dimension 0 (overworld) while populating chunk [7, 15], causing cascading worldgen lag.
+[14:53:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:48] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [7, 17] in dimension 0 (overworld) while populating chunk [7, 15], causing cascading worldgen lag.
+[14:53:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:48] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [8, 17] in dimension 0 (overworld) while populating chunk [7, 15], causing cascading worldgen lag.
+[14:53:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:48] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [9, 17] in dimension 0 (overworld) while populating chunk [7, 15], causing cascading worldgen lag.
+[14:53:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:48] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [7, 18] in dimension 0 (overworld) while populating chunk [7, 15], causing cascading worldgen lag.
+[14:53:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:48] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [8, 18] in dimension 0 (overworld) while populating chunk [7, 15], causing cascading worldgen lag.
+[14:53:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:48] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [9, 18] in dimension 0 (overworld) while populating chunk [7, 15], causing cascading worldgen lag.
+[14:53:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 81%
+[14:53:49] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [9, 12] in dimension 0 (overworld) while populating chunk [8, 12], causing cascading worldgen lag.
+[14:53:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:49] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [8, 14] in dimension 0 (overworld) while populating chunk [8, 12], causing cascading worldgen lag.
+[14:53:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:49] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [8, 13] in dimension 0 (overworld) while populating chunk [8, 12], causing cascading worldgen lag.
+[14:53:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:49] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [9, 14] in dimension 0 (overworld) while populating chunk [8, 12], causing cascading worldgen lag.
+[14:53:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:49] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [9, 13] in dimension 0 (overworld) while populating chunk [8, 12], causing cascading worldgen lag.
+[14:53:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:53:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 95%
+[14:53:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (14.782s)! For help, type "help" or "?"
+[14:53:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting remote control listener
+[14:53:50] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: RCON running on 0.0.0.0:25575
+[14:53:50] [Server thread/INFO] [FML]: Unloading dimension -1
+[14:53:50] [Server thread/INFO] [FML]: Unloading dimension 1
+[14:53:50] [Server thread/INFO] [FML]: Unloading dimension 72
+[14:53:50] [Server thread/INFO] [FML]: Unloading dimension 73
+[14:54:00] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player ecoblaxter is 087cf311-8d52-4992-8d56-ef2f9d43de3d
+[14:54:00] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[14:54:00] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 8 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,tcg@1.12.2-8.4.2-universal,mcp@9.42,journeymap@1.12.2-5.7.1,jei@4.16.1.301,pixelmon@8.4.2
+[14:54:00] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[14:54:01] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:54:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ecoblaxter[/83.37.36.13:52654] logged in with entity id 2385 at (20.5, 78.0, 256.5)
+[14:54:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ecoblaxter joined the game
+[14:54:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ecoblaxter has made the advancement [You picked a starter!]
+[14:54:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ecoblaxter: Set own game mode to Creative Mode]
+[14:57:53] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID f0a8c966-9bdc-4560-8f0e-75b3acb10d36
+[14:58:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ecoblaxter has made the advancement [Only took me four tries *Fist pump*]
+[14:58:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ecoblaxter has made the advancement [Acquire Hardware]
+[14:59:16] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [11, 27] in dimension 0 (overworld) while populating chunk [11, 28], causing cascading worldgen lag.
+[14:59:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:59:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Greninja moved wrongly!
+[14:59:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Greninja moved wrongly!
+[14:59:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ecoblaxter> clear
+[14:59:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ecoblaxter: Cleared the inventory of ecoblaxter, removing 8 items]
+[15:00:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ecoblaxter lost connection: Disconnected
+[15:00:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ecoblaxter left the game
+[15:00:08] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player ecoblaxter is 087cf311-8d52-4992-8d56-ef2f9d43de3d
+[15:00:08] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[15:00:08] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 8 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,tcg@1.12.2-8.4.2-universal,mcp@9.42,journeymap@1.12.2-5.7.1,jei@4.16.1.301,pixelmon@8.4.2
+[15:00:08] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[15:00:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:00:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ecoblaxter[/83.37.36.13:52835] logged in with entity id 3268 at (366.30000001192093, 64.0, 343.07516461805903)
+[15:00:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ecoblaxter joined the game
+[15:00:18] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [18, 37] in dimension 0 (overworld) while populating chunk [18, 36], causing cascading worldgen lag.
+[15:00:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:18] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [19, 37] in dimension 0 (overworld) while populating chunk [18, 37], causing cascading worldgen lag.
+[15:00:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:18] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [20, 37] in dimension 0 (overworld) while populating chunk [18, 36], causing cascading worldgen lag.
+[15:00:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:18] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [21, 37] in dimension 0 (overworld) while populating chunk [18, 36], causing cascading worldgen lag.
+[15:00:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:19] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [17, 37] in dimension 0 (overworld) while populating chunk [17, 36], causing cascading worldgen lag.
+[15:00:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:19] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [17, 38] in dimension 0 (overworld) while populating chunk [17, 36], causing cascading worldgen lag.
+[15:00:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:19] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [18, 38] in dimension 0 (overworld) while populating chunk [17, 36], causing cascading worldgen lag.
+[15:00:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:19] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [19, 38] in dimension 0 (overworld) while populating chunk [17, 36], causing cascading worldgen lag.
+[15:00:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:19] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [16, 37] in dimension 0 (overworld) while populating chunk [16, 36], causing cascading worldgen lag.
+[15:00:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:19] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [16, 38] in dimension 0 (overworld) while populating chunk [16, 37], causing cascading worldgen lag.
+[15:00:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:19] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [15, 37] in dimension 0 (overworld) while populating chunk [15, 36], causing cascading worldgen lag.
+[15:00:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:19] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [14, 36] in dimension 0 (overworld) while populating chunk [15, 37], causing cascading worldgen lag.
+[15:00:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:19] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [14, 37] in dimension 0 (overworld) while populating chunk [13, 36], causing cascading worldgen lag.
+[15:00:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:19] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [13, 37] in dimension 0 (overworld) while populating chunk [13, 36], causing cascading worldgen lag.
+[15:00:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:21] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [15, 39] in dimension 0 (overworld) while populating chunk [15, 38], causing cascading worldgen lag.
+[15:00:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:21] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [16, 39] in dimension 0 (overworld) while populating chunk [15, 38], causing cascading worldgen lag.
+[15:00:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:21] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [14, 39] in dimension 0 (overworld) while populating chunk [14, 38], causing cascading worldgen lag.
+[15:00:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:21] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [13, 39] in dimension 0 (overworld) while populating chunk [13, 38], causing cascading worldgen lag.
+[15:00:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:21] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [13, 40] in dimension 0 (overworld) while populating chunk [13, 38], causing cascading worldgen lag.
+[15:00:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:21] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [14, 40] in dimension 0 (overworld) while populating chunk [13, 38], causing cascading worldgen lag.
+[15:00:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:22] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [18, 39] in dimension 0 (overworld) while populating chunk [17, 39], causing cascading worldgen lag.
+[15:00:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:22] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [17, 40] in dimension 0 (overworld) while populating chunk [17, 39], causing cascading worldgen lag.
+[15:00:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:22] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [18, 40] in dimension 0 (overworld) while populating chunk [17, 39], causing cascading worldgen lag.
+[15:00:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:22] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [17, 41] in dimension 0 (overworld) while populating chunk [17, 39], causing cascading worldgen lag.
+[15:00:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:22] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [18, 41] in dimension 0 (overworld) while populating chunk [17, 39], causing cascading worldgen lag.
+[15:00:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:23] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [16, 41] in dimension 0 (overworld) while populating chunk [16, 40], causing cascading worldgen lag.
+[15:00:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:23] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [15, 41] in dimension 0 (overworld) while populating chunk [15, 40], causing cascading worldgen lag.
+[15:00:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:26] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [14, 42] in dimension 0 (overworld) while populating chunk [14, 41], causing cascading worldgen lag.
+[15:00:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:26] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [15, 42] in dimension 0 (overworld) while populating chunk [14, 41], causing cascading worldgen lag.
+[15:00:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:00:27] [Server thread/INFO] [Pixelmon]: Gym spawned at 232 69 669
+[15:00:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID f0a8c966-9bdc-4560-8f0e-75b3acb10d36
+[15:01:15] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-4, 29] in dimension 0 (overworld) while populating chunk [-3, 30], causing cascading worldgen lag.
+[15:01:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:01:45] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-11, 42] in dimension 0 (overworld) while populating chunk [-10, 43], causing cascading worldgen lag.
+[15:01:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:06:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ecoblaxter: Teleported ecoblaxter to -131479.5, 60.0, 17464.5]
+[15:06:10] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-8225, 1090] in dimension 0 (overworld) while populating chunk [-8225, 1091], causing cascading worldgen lag.
+[15:06:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:06:10] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-8226, 1090] in dimension 0 (overworld) while populating chunk [-8225, 1091], causing cascading worldgen lag.
+[15:06:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:06:12] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-8214, 1082] in dimension 0 (overworld) while populating chunk [-8215, 1082], causing cascading worldgen lag.
+[15:06:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:06:14] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2228ms behind, skipping 44 tick(s)
+[15:06:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ecoblaxter: Teleported ecoblaxter to -130.5, 60.0, 17.5]
+[15:06:41] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2622ms behind, skipping 52 tick(s)
+[15:08:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ecoblaxter: Teleported ecoblaxter to 55167.5, 57.0, 11924.5]
+[15:08:18] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2865ms behind, skipping 57 tick(s)
+[15:08:19] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [3452, 756] in dimension 0 (overworld) while populating chunk [3452, 755], causing cascading worldgen lag.
+[15:08:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:08:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ecoblaxter lost connection: Disconnected
+[15:08:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ecoblaxter left the game
+[15:08:49] [RCON Listener #1/INFO] [net.minecraft.server.MinecraftServer]: Rcon connection from: /127.0.0.1
+[15:08:49] [RCON Client #2/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Rcon: Stopping the server]
+[15:08:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[15:08:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[15:08:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[15:08:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[15:08:49] [Server thread/INFO] [FML]: Unloading dimension 0
+[15:08:49] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
